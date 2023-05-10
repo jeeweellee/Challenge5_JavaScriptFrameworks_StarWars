@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url(https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-14.jpg);
+}
+
+.Title {
+  text-decoration: underline;
+  text-align: center;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+.People {
+  text-align: center;
+  color: #b7b6a9;
+  font-family: "Garamond" serif;
+}
+
+sup {
+  background: #6caaa2;
+  color: #000;
+}
